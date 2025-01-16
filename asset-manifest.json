@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Samasya-Portfolio/static/css/main.9a6fd179.css",
+    "main.js": "/Samasya-Portfolio/static/js/main.8551f07b.js",
+    "static/js/488.8f138d9a.chunk.js": "/Samasya-Portfolio/static/js/488.8f138d9a.chunk.js",
+    "static/media/IMG_20240330_140145.jpg": "/Samasya-Portfolio/static/media/IMG_20240330_140145.411536d064c77f1ae0a6.jpg",
+    "static/media/Bootstrap1.png": "/Samasya-Portfolio/static/media/Bootstrap1.78daf20cad31825268e4.png",
+    "static/media/Javascript1.png": "/Samasya-Portfolio/static/media/Javascript1.c6b804be0450503ff714.png",
+    "static/media/Javascript2.png": "/Samasya-Portfolio/static/media/Javascript2.7b98a88594d7592eb065.png",
+    "static/media/HTML5.png": "/Samasya-Portfolio/static/media/HTML5.2cd5d05c9660ec55992e.png",
+    "static/media/Bootstrap.png": "/Samasya-Portfolio/static/media/Bootstrap.7ec629589d73f8a028c5.png",
+    "static/media/Python.png": "/Samasya-Portfolio/static/media/Python.65c0e9243c20520b4fdf.png",
+    "static/media/Visual Studio Code (VS Code).png": "/Samasya-Portfolio/static/media/Visual Studio Code (VS Code).c451d51c85d02c2a3841.png",
+    "static/media/MongoDB.png": "/Samasya-Portfolio/static/media/MongoDB.b723bb18907da666f951.png",
+    "static/media/Azure SQL Database.png": "/Samasya-Portfolio/static/media/Azure SQL Database.69ef16fb87f800e3f4de.png",
+    "static/media/pngwing.com.png": "/Samasya-Portfolio/static/media/pngwing.com.d59283c6f2b5052aa4f3.png",
+    "static/media/C.png": "/Samasya-Portfolio/static/media/C.22e9ccb5444713a02310.png",
+    "static/media/React.png": "/Samasya-Portfolio/static/media/React.98ff38735baa4c1b0381.png",
+    "index.html": "/Samasya-Portfolio/index.html",
+    "main.9a6fd179.css.map": "/Samasya-Portfolio/static/css/main.9a6fd179.css.map",
+    "main.8551f07b.js.map": "/Samasya-Portfolio/static/js/main.8551f07b.js.map",
+    "488.8f138d9a.chunk.js.map": "/Samasya-Portfolio/static/js/488.8f138d9a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a6fd179.css",
+    "static/js/main.8551f07b.js"
+  ]
+}
