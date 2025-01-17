@@ -5,9 +5,7 @@ function About() {
         <section className="p-lg-5 container-fluid">
             <header>
                 <h1 className="display-1 fw-light p-4">About Me</h1>
-
             </header>
-            <br></br>
             <main className="px-4 row">
                 <div className="mb-5">
                     <p>A passionate Frontend Developer with a solid foundation in HTML5, CSS3, JavaScript, and React.js. As an Electronics and Communication Engineering graduate,<br></br> I’ve combined my analytical skills with a creative flair to build user-friendly and responsive web applications.</p>
