@@ -6,8 +6,8 @@ function About() {
             <header>
                 <h1 className="display-1 fw-light p-4">About Me</h1>
             </header>
-            <main className="px-4 row">
-                <div className="mb-5">
+            <main className="p-4 row">
+                <div>
                     <p>A passionate Frontend Developer with a solid foundation in HTML5, CSS3, JavaScript, and React.js. As an Electronics and Communication Engineering graduate,<br></br> I’ve combined my analytical skills with a creative flair to build user-friendly and responsive web applications.</p>
                     <p>    Currently, I’m exploring opportunities to contribute to innovative IT projects where I can leverage my skills and continue learning.</p>
                     <p>   I enjoy sharing knowledge with others and continuously exploring ways to design visually appealing and efficient solutions. Teaching and collaboration have been integral parts of my journey, fueling my passion for growth and creativity in technology.</p>

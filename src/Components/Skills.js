@@ -79,8 +79,8 @@ function Projects() {
                 <header >
                     <h1 className="display-1 fw-light py-4">Projects</h1>
                 </header>
-                <div className="row container-fluid w-100 m-0 p-0 ">
-                    <div className="col-12 col-lg-4 m-0">
+                <div className="row container-fluid w-100 m-0 p-0">
+                    <div className="col-12 col-lg-4 mb-2">
                         <h1 className="mb-4">Bootstrap Project - 1</h1>
                         <div className="container-fluid">
                             <div className="card my-4 p-3 text-light">
@@ -94,7 +94,7 @@ function Projects() {
                             </div>
                         </div>
                     </div>
-                    <div className="col-12 col-lg-4 m-0">
+                    <div className="col-12 col-lg-4 mb-2">
                         <h1 className="mb-4">Javascript Project - 1</h1>
                         <div className="container-fluid" >
                             <div className="card my-4 p-3 text-light">
@@ -108,7 +108,7 @@ function Projects() {
                             </div>
                         </div>
                     </div>
-                    <div className="col-12 col-lg-4 m-0">
+                    <div className="col-12 col-lg-4 mb-2">
                         <h1 className="mb-4">Javascript Project - 2</h1>
                         <div className="container-fluid" >
                             <div className="card my-4 p-3 text-light">

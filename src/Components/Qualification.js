@@ -31,7 +31,7 @@ function CareerEducation() {
 
         <div className='mb-5'>
           <header>
-          <div className="display-1 mb-4 col-12">Academic Qualification</div>
+            <div className="display-1 mb-4 col-12">Academic Qualification</div>
           </header>
           <div className="col-12 col-md-6 ">
             <h1 className="fw-light">Bachelor Degree</h1>
@@ -42,10 +42,10 @@ function CareerEducation() {
             "Over the course of my undergraduate degree, I took part in paper presentations, technical competitions, in-plant training on embedded systems, and internships, while also mentoring participants during events organized by our college, further enhancing my academic journey with practical, real-world experience."
           </p>
         </div>
-        <div>
-         <header>
-         <div className="display-1 my-4 col-12">Certification</div>
-         </header>
+        <div className='m-0 p-0'>
+          <header>
+            <div className="display-1 my-4 col-12">Certification</div>
+          </header>
           <div className="col-12 ">
             <h3 className="">Honors Diploma In Computer Application - Programming  | July 2023 - July 2024</h3>
             <h4 className="fw-light">CSC Computer Education</h4>
