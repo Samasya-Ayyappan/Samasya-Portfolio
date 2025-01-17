@@ -13,7 +13,6 @@ function About() {
                     <p>   I enjoy sharing knowledge with others and continuously exploring ways to design visually appealing and efficient solutions. Teaching and collaboration have been integral parts of my journey, fueling my passion for growth and creativity in technology.</p>
                     <blockquote>"I am a positive and enthusiastic individual who believes that continuous learning, dedicated effort, and resilience will lead to great achievements and a fulfilling career. With a strong commitment to mastering the latest technologies and collaborating with others, I look forward to contributing to innovative projects and creating impactful digital solutions. I carry the hope and confidence that these endeavors will reward me with meaningful opportunities and success in life."</blockquote>
                     <p>"I embrace activities that bring creativity and meaningful moments to my life. Baking, inspired by my love for cakes, lets me experiment and share delicious treats. Coloring helps me relax and tap into my artistic side, while playing carrom and cards creates fun opportunities for connection with family and friends. Watching movies with my family adds to our shared experiences, making our time together even more special."</p>
-
                 </div>
             </main>
         </section>
