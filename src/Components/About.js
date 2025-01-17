@@ -6,7 +6,7 @@ function About() {
             <header>
                 <h1 className="display-1 fw-light p-4">About Me</h1>
             </header>
-            <main className="p-4 row">
+            <main className="p-4 pt-0 row">
                 <div>
                     <p>A passionate Frontend Developer with a solid foundation in HTML5, CSS3, JavaScript, and React.js. As an Electronics and Communication Engineering graduate,<br></br> I’ve combined my analytical skills with a creative flair to build user-friendly and responsive web applications.</p>
                     <p>    Currently, I’m exploring opportunities to contribute to innovative IT projects where I can leverage my skills and continue learning.</p>
