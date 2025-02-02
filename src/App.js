@@ -19,7 +19,7 @@ function App(){
             <li className='nav-item'><Link  className='nav-link text-light' to="/contact">Contacts</Link></li> 
           </ul>
         </nav>
-        <Routes>
+        <Routes basename="/">
           <Route path="/" element={<Home />} />
           <Route path="/about" element={<About />} />
           <Route path="/career-education" element={<CareerEducation />} />
