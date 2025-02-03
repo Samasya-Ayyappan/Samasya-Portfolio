@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Samasya-Portfolio/static/css/main.9a6fd179.css",
-    "main.js": "/Samasya-Portfolio/static/js/main.50bc8ef6.js",
+    "main.js": "/Samasya-Portfolio/static/js/main.c6b9331c.js",
     "static/js/488.8f138d9a.chunk.js": "/Samasya-Portfolio/static/js/488.8f138d9a.chunk.js",
     "static/media/IMG_20240330_140145.jpg": "/Samasya-Portfolio/static/media/IMG_20240330_140145.411536d064c77f1ae0a6.jpg",
     "static/media/Bootstrap1.png": "/Samasya-Portfolio/static/media/Bootstrap1.78daf20cad31825268e4.png",
@@ -18,11 +18,11 @@
     "static/media/React.png": "/Samasya-Portfolio/static/media/React.98ff38735baa4c1b0381.png",
     "index.html": "/Samasya-Portfolio/index.html",
     "main.9a6fd179.css.map": "/Samasya-Portfolio/static/css/main.9a6fd179.css.map",
-    "main.50bc8ef6.js.map": "/Samasya-Portfolio/static/js/main.50bc8ef6.js.map",
+    "main.c6b9331c.js.map": "/Samasya-Portfolio/static/js/main.c6b9331c.js.map",
     "488.8f138d9a.chunk.js.map": "/Samasya-Portfolio/static/js/488.8f138d9a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9a6fd179.css",
-    "static/js/main.50bc8ef6.js"
+    "static/js/main.c6b9331c.js"
   ]
 }
