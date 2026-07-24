@@ -1,21 +1,52 @@
 import React from "react";
 import './Portfolio.css';
+import Resume from "./Multimedia/Samasya Ayyappan - Resume(2026).pdf";
 function Home() {
     return (
 
-        <div className="container-fluid pb-5 m-0 w-100 ">
-            <div className="col-12 col-lg-5 float-end py-lg-5">
-                <div className="col-12 px-5 h-100 d-flex">
-                    <img src={require(`./Multimedia/IMG_20240330_140145.jpg`)} alt="My_Image" className="w-75 h-75 mt-5 mx-auto " id="Profile" />
-                </div>
-            </div>
-            <div className="col-12 col-lg-7 p-5">
-                <div className="p-lg-5 py-md-5 my-5 ">
-                    <header className=" py-0 pb-lg-0 display-1 fw-bold my-5">My <br></br> Portfolio</header>
-                    <p className="py-lg-5 pt-0 pt-lg-0">"An enthusiastic developer with a passion for building dynamic front-end interfaces and robust back-end systems to create impactful digital solutions."</p>
-                </div>
-            </div>
+        <div className="container-fluid d-flex align-items-center px-4 px-md-5"
+            style={{ minHeight: "100dvh" }}>
+            <div className="row w-100 align-items-center py-4 py-md-0">
 
+                <div className="col-12 col-md-6 col-xl-7 order-2 order-md-1 my-5 px-xl-5">
+                    <h1 className="display-4 fw-bold ps-xxl-5">
+                        Samasya T A
+                    </h1>
+
+                    <h5 className="mb-4 ps-xl-5">
+                        <span className="fw-bold">Software Development Engineer</span> |
+                        <span className="fw-light"> Frontend Developer</span>
+                    </h5>
+
+                    <p className="ps-xl-5">
+                        "An enthusiastic Software Development Engineer with a passion
+                        for building dynamic user experiences and robust software
+                        solutions to create impactful digital products."
+                    </p>
+
+                    <div className="ps-xl-5 mt-4">
+                        <a
+                            href={Resume}
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className="btn btn-outline-light btn-lg rounded-pill px-4"
+                        >
+                            <i className="fa-solid fa-download me-2"></i>
+                            Resume
+                        </a>
+                    </div>
+                </div>
+
+                <div className="col-12 col-md-6 col-xl-5 order-1 order-md-2 text-center">
+                    <img
+                        src={require("./Multimedia/IMG_20240330_140145.jpg")}
+                        alt="My_Image"
+                        className="w-50 h-50 mb-md-5"
+                        id="Profile"
+                    />
+                </div>
+
+            </div>
         </div>
     );
 }

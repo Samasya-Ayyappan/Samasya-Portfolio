@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 96 96" id="Medusa-Icon--Streamline-Svg-Logos" height="24" width="24">
+  <desc>
+    Medusa Icon Streamline Icon: https://streamlinehq.com
+  </desc>
+  <path fill="url(#a)" d="M80.5153 16.2585 59.293 4.01251c-6.9438-4.01668089-15.4524-4.01668089-22.3963 0L15.5764 16.2585C8.73043 20.2751 4.42725 27.7207 4.42725 35.6562v24.5897c0 8.0335 4.30318 15.381 11.14915 19.3975l21.2225 12.3442c6.9439 4.0165 15.4522 4.0165 22.3961 0l21.2225-12.3442c6.9439-4.0165 11.1492-11.364 11.1492-19.3975V35.6562c.1955-7.9355-4.1076-15.3811-11.0514-19.3977ZM48.0458 69.8468c-12.0294 0-21.8093-9.7967-21.8093-21.8468 0-12.0501 9.7799-21.8467 21.8093-21.8467S69.953 35.9499 69.953 48c0 12.0501-9.78 21.8468-21.9072 21.8468Z"></path>
+  <defs>
+    <linearGradient id="a" x1="-5807.96" x2="9618.98" y1="7696.8" y2="3826" gradientUnits="userSpaceOnUse">
+      <stop offset=".266" stop-color="#592ee1"></stop>
+      <stop offset="1" stop-color="#b836d9"></stop>
+    </linearGradient>
+  </defs>
+</svg>
