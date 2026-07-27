@@ -9,7 +9,7 @@ function CareerEducation() {
       <main className="p-0 row">
         <div className="timeline-item">
           <div className="timeline-content">
-            <h3>Software Development Engineer I | July 2025 – Present</h3>
+            <h3>Software Development Engineer I | July 2025 – July 2026</h3>
             <h4 className="fw-normal">Cerebronix (Neosys Ventures LLP)</h4>
 
             <div className="timeline-body">
