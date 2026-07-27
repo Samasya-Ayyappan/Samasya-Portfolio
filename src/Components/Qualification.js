@@ -114,7 +114,7 @@ function CareerEducation() {
         </div>
         <div className="timeline-item">
           <div className="timeline-content">
-            <h3>Teaching Faculty | Apr 2024 – June 2025</h3>
+            <h3>Teaching Faculty | Apr 2024 – Feb 2025</h3>
             <h4 className="fw-normal">CSC Computer Education</h4>
 
             <div className="timeline-body">
