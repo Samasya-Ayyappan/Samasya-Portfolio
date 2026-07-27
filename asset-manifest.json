@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Samasya-Portfolio/static/css/main.a1c3d37c.css",
-    "main.js": "/Samasya-Portfolio/static/js/main.675710a9.js",
+    "main.js": "/Samasya-Portfolio/static/js/main.2c0dedb2.js",
     "static/js/488.b6a9087e.chunk.js": "/Samasya-Portfolio/static/js/488.b6a9087e.chunk.js",
     "static/media/Samasya Ayyappan - Resume(2026).pdf": "/Samasya-Portfolio/static/media/Samasya Ayyappan - Resume(2026).d016fb5d091236af7db6.pdf",
     "static/media/IMG_20240330_140145.jpg": "/Samasya-Portfolio/static/media/IMG_20240330_140145.411536d064c77f1ae0a6.jpg",
@@ -30,11 +30,11 @@
     "static/media/payload.svg": "/Samasya-Portfolio/static/media/payload.74f10f8a864ef93602101474fe05a17f.svg",
     "static/media/nextjs.svg": "/Samasya-Portfolio/static/media/nextjs.17fe1720dcc66b60fc1a5a70d104d1dd.svg",
     "main.a1c3d37c.css.map": "/Samasya-Portfolio/static/css/main.a1c3d37c.css.map",
-    "main.675710a9.js.map": "/Samasya-Portfolio/static/js/main.675710a9.js.map",
+    "main.2c0dedb2.js.map": "/Samasya-Portfolio/static/js/main.2c0dedb2.js.map",
     "488.b6a9087e.chunk.js.map": "/Samasya-Portfolio/static/js/488.b6a9087e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a1c3d37c.css",
-    "static/js/main.675710a9.js"
+    "static/js/main.2c0dedb2.js"
   ]
 }
