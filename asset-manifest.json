@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Samasya-Portfolio/static/css/main.a65aa4c0.css",
-    "main.js": "/Samasya-Portfolio/static/js/main.378aec73.js",
+    "main.js": "/Samasya-Portfolio/static/js/main.5a1ccade.js",
     "static/js/488.8f138d9a.chunk.js": "/Samasya-Portfolio/static/js/488.8f138d9a.chunk.js",
     "static/media/IMG_20240330_140145.jpg": "/Samasya-Portfolio/static/media/IMG_20240330_140145.411536d064c77f1ae0a6.jpg",
     "static/media/Bootstrap1.png": "/Samasya-Portfolio/static/media/Bootstrap1.78daf20cad31825268e4.png",
@@ -31,11 +31,11 @@
     "static/media/payload.svg": "/Samasya-Portfolio/static/media/payload.5a62d1e3aa7aa0c3567086240b71b0e1.svg",
     "static/media/nextjs.svg": "/Samasya-Portfolio/static/media/nextjs.17fe1720dcc66b60fc1a5a70d104d1dd.svg",
     "main.a65aa4c0.css.map": "/Samasya-Portfolio/static/css/main.a65aa4c0.css.map",
-    "main.378aec73.js.map": "/Samasya-Portfolio/static/js/main.378aec73.js.map",
+    "main.5a1ccade.js.map": "/Samasya-Portfolio/static/js/main.5a1ccade.js.map",
     "488.8f138d9a.chunk.js.map": "/Samasya-Portfolio/static/js/488.8f138d9a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a65aa4c0.css",
-    "static/js/main.378aec73.js"
+    "static/js/main.5a1ccade.js"
   ]
 }
